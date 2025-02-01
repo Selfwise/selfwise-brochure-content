@@ -1,0 +1,71 @@
+[
+  {
+    type: "hero",
+    content: {
+      title: "Révolutionnez votre pratique de coaching avec l'IA",
+      subtitle:
+        "Utilisez l'intelligence artificielle pour amplifier votre impact et accompagner vos clients vers le succès",
+      cta: "Commencer l'essai gratuit",
+      secondaryCta: "Voir la démo",
+      image: "/hero-image.png",
+    },
+  },
+  {
+    type: "features",
+    title: "Des outils conçus pour les coachs professionnels",
+    subtitle:
+      "Tout ce dont vous avez besoin pour un coaching moderne et efficace",
+    items: [
+      {
+        icon: Brain,
+        title: "IA Assistant Personnel",
+        description:
+          "Un assistant IA qui vous aide à préparer vos séances et analyser les progrès",
+      },
+      {
+        icon: Users,
+        title: "Gestion des Clients",
+        description:
+          "Suivez facilement le parcours et l'évolution de chaque client",
+      },
+      {
+        icon: Target,
+        title: "Objectifs Personnalisés",
+        description:
+          "Créez des parcours sur mesure adaptés aux besoins spécifiques",
+      },
+    ],
+  },
+  {
+    type: "stats",
+    items: [
+      { value: "2,500+", label: "Coachs actifs" },
+      { value: "15,000+", label: "Clients accompagnés" },
+      { value: "95%", label: "Taux de satisfaction" },
+    ],
+  },
+  {
+    type: "benefits",
+    title: "Pourquoi choisir Selfwise ?",
+    items: [
+      {
+        icon: BarChart,
+        title: "Suivi des Progrès",
+        description:
+          "Mesurez l'impact de vos interventions avec des analyses détaillées",
+      },
+      {
+        icon: Shield,
+        title: "Sécurité Garantie",
+        description:
+          "Vos données et celles de vos clients sont protégées aux plus hauts standards",
+      },
+      {
+        icon: Sparkles,
+        title: "IA Éthique",
+        description:
+          "Une IA développée dans le respect de l'éthique du coaching",
+      },
+    ],
+  },
+]
