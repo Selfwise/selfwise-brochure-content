@@ -4,6 +4,9 @@ category: ressources
 tags:
   - pizza
   - test
+
+author: felix m
+
 ---
 
 # Blog article test
