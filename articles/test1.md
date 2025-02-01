@@ -9,7 +9,7 @@ author: felix m
 
 # Blog article test
 
-![Delicious pizza on a wooden table](/christian-perner-vXzd4IH4c-unsplash.jpg)
+![Delicious pizza on a wooden table](/christian-perner-vXzd4IH4J4c-unsplash.jpg)
 
 In the world of culinary delights, few dishes have achieved the universal appeal and versatility of pizza. From its humble origins in Naples to its current status as a global phenomenon, pizza continues to captivate food lovers everywhere.
 
